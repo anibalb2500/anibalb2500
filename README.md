@@ -6,6 +6,9 @@
 - In my free time I like to watch, critique and discuss new and classic movies 🍿
   
 - The pooch in my profile pic is Stella 🐶
+-----------------------------------------------------------------
+# Professional Certifications:
+- [GitHub Foundations](https://www.credly.com/badges/f608b516-5534-4ee0-9155-d2a45cf69de4/public_url)
 <!--
 **anibalb2500/anibalb2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
