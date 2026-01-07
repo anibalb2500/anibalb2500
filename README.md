@@ -1,9 +1,4 @@
 # Quick Bio
-- Software developer based in Tempe, Arziona 🏜️
-
-- Arizona State University Alum 😈 🔱
-
-- In my free time I like to watch, critique and discuss new and classic movies 🍿
   
 - The pooch in my profile pic is Stella 🐶
 -----------------------------------------------------------------
